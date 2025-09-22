@@ -2,6 +2,7 @@
 # Aim
 Write a simple python program to Generate Matrix, Codeword, Hamming weight, Syndrome matrix and find the error on received codeword using Linear block code. 
 # Tools required
+Python IDE with Numpy and Scipy
 
 # Program
 ```
@@ -96,9 +97,11 @@ print(f"The correct codeword is : " + " " .join(map(str,add)))
 # Output 
 <img width="763" height="733" alt="image" src="https://github.com/user-attachments/assets/4e5ef6fc-5918-4017-9da2-d02efb2e206a" />
 <img width="728" height="735" alt="image" src="https://github.com/user-attachments/assets/6c196b46-2bc2-406f-875e-db9ef5c071c4" />
+<img width="1265" height="1280" alt="image" src="https://github.com/user-attachments/assets/6f6104b5-ac72-44fb-8aab-76594e22057f" />
+<img width="663" height="1040" alt="image" src="https://github.com/user-attachments/assets/631b74c5-828e-4edd-9fd0-65b8e57a4b44" />
+<img width="1280" height="1092" alt="image" src="https://github.com/user-attachments/assets/6c2880b1-37c0-40a6-a866-67c01f86ec77" />
+
 
 # Results
+Using linear block codes, errors in transmitted data can be efficiently detected and corrected, improving the reliability of communication systems without significantly increasing the data size.
 
-
-
-# Hardware experiment output waveform.
